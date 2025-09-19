@@ -11,17 +11,23 @@ This repository is a refreshed and more structured version of my earlier reposit
 
 ## 📂 Repository Structure
 
-* Each `.py` file demonstrates **one Python concept** with clear explanations in the code.
+* Each `.py` file in `concepts/` directory demonstrates **one Python concept** with clear explanations in the code.
 * The concepts are arranged in a **progressive order** — starting from the basics and moving towards more advanced topics.
 
 Example file naming convention:
 
 ```
-01_variables.py  
-02_data_types.py  
-03_conditionals.py  
-04_loops.py  
-05_functions.py  
+concepts/
+    |- 01_variables.py  
+    |- 02_data_types.py  
+    |- 03_conditionals.py  
+    |- 04_loops.py  
+    |- 05_functions.py  
+README.md
+LICENSE
+pyproject.toml
+.pythonversion
+.gitignore
 ...  
 ```
 
